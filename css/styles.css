@@ -1,0 +1,25 @@
+img {
+    float: center;
+  }
+  h1 {
+    color: blue;
+    text-align: center;
+  }
+  body{
+    background-color: grey;
+  }
+  .intro {
+    font-style: italic;
+    
+  }
+  .author {
+    color: red;
+  }
+  .head{
+    color: blue;
+  }
+  .column {
+    width: 350px;
+    float: right;
+    margin-right: 500px;
+  }
